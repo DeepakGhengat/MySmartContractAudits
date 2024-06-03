@@ -74,8 +74,8 @@ Lead Auditors: Deepak Ghengat
 
 # About DEEPAK GHENGAT
 
-<!--With a expertise to find vulnerability on different platforms across the industries - Bug Bounties, Penetration Testing, and suggests the mitigations on vulnerabilities - Deepak has seen many things in the industry - took a part in many bug bounties programs and report the multiple vulnerabilities and help to mitigate them.
- -->
+With a expertise to find vulnerability on different platforms across the industries - Bug Bounties, Penetration Testing, and suggests the mitigations on vulnerabilities - Deepak has seen many things in the industry - took a part in many bug bounties programs and report the multiple vulnerabilities and help to mitigate them.
+
 
 # Disclaimer
 
